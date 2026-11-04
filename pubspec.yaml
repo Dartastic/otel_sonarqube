@@ -2,7 +2,7 @@ name: otel_sonarqube
 description: >-
   OpenTelemetry instrumentation for sonarqube by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use sonarqube.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_sonarqube
 homepage: https://dartastic.io
 
